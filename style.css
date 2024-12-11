@@ -1,0 +1,37 @@
+.container {
+    width: 60ch;
+    height:auto;
+    background-color: rgb(73, 155, 155);
+    align-items: center;
+    border: 3px solid rgb(67, 100, 16); 
+    margin: 20ch;
+    text-align: center;
+    padding-top: 2%;
+}
+
+.hallo {
+    display: flex; 
+    gap: 2ch; 
+    width: 80ch;
+    height: auto;
+    background-color: #e692c0;
+    padding: 1ch;
+}
+
+.col1, .col2 {
+    flex: 2;
+    height: auto;
+    padding: 1ch;
+    border: 1px solid #ccc; 
+    background-color: #ffffff;
+width: 30ch; }
+
+
+.img {
+    margin-left: 60%;
+    margin-bottom: 50%;
+    
+    background-color: aliceblue;
+   height: 400%;
+   width:  600%;
+}
