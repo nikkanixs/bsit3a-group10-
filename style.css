@@ -53,3 +53,26 @@ width:10ch;
 height: 10ch;
 
 }
+
+.list-layout {
+    background-color: #ffcBcB;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+}
+.list-layout h2 {
+    margin-bottom: 10px;
+    font-size: 1.5em;
+    color: #333;
+}
+
+.list-layout ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+.list-layout li {
+    margin: 5px 0;
+    font-size: 1em;
+    color: #555;
+}
