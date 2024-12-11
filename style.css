@@ -35,3 +35,21 @@ width: 30ch; }
    height: 400%;
    width:  600%;
 }
+
+ 
+.luh{
+
+    display: flex; 
+    gap: 2ch; 
+    width: 80ch;
+    height: auto;
+    background-color: #2cb957;
+    padding: 1ch;
+
+
+}
+img{
+width:10ch;
+height: 10ch;
+
+}
